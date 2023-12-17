@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+header{
+    background-color: #7071E8;
+    color: #FFC7C7;
+    padding: 20px;
+}
+a{
+    color: #FFC7C7;
+}
+.header{
+    text-align: center;
+}
+nav a{
+    color:#7071E8 ;
+    background-color:#FFC7C7 ;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+nav{
+    margin-top: 10px;
+}
+h2{
+ color:#;
+
+}
+main{
+    background-color: #FFC7C7;
+}
+footer{
+    text-align: center;
+    background-color: #7071E8;
+    color: #FFC7C7;
+    padding: 20px;
+}
